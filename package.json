@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://launcher.fixfis.online/src/gaaa.png"
+        "icon": "node build.js --icon=https://launcher.fixfis.online/src/gaa.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/fixfis70/fixfisLauncher.git"
     }
 }
